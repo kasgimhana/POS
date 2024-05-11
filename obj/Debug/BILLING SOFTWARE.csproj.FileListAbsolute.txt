@@ -1,0 +1,19 @@
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\bin\Debug\BILLING SOFTWARE.exe.config
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\bin\Debug\BILLING SOFTWARE.exe
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\bin\Debug\BILLING SOFTWARE.pdb
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING SOFTWARE.csproj.AssemblyReference.cache
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING SOFTWARE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING_SOFTWARE.Form1.resources
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING_SOFTWARE.Properties.Resources.resources
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING SOFTWARE.csproj.GenerateResource.cache
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING SOFTWARE.csproj.CoreCompileInputs.cache
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING SOFTWARE.exe
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING SOFTWARE.pdb
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING_SOFTWARE.customer.resources
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING_SOFTWARE.Main.resources
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING_SOFTWARE.Signup.resources
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\bin\Debug\Billing.mdf
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\bin\Debug\Billing_log.ldf
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING_SOFTWARE.Admin.resources
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING_SOFTWARE.User.resources
+C:\Users\Pasidu\source\repos\BILLING SOFTWARE\obj\Debug\BILLING_SOFTWARE.Mangemet.resources
